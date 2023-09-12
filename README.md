@@ -6,7 +6,7 @@ I always want to write a code version that works as my mental algorithm of resol
 # A "Human-on-paper" based algorithm
 The logic behind is the same as a human who tries to resolve sudoku on paper. Instead, on a mathematical POV, there is a strong pruning to the solution tree.
 In fact, we are trying to eliminate as many candidate numbers from the empty cells as we can using some logic and graphs theory.
-I took inspiration from an article that gave useful information about some logical trick to solve the sudoku on paper and an illuminated blog post that gave some ideas about the graph theory behind it.
+I took inspiration from an article that gave useful information about some logical tricks to solve the sudoku on paper and an illuminated blog post that gave some ideas about the graph theory behind it.
 **The PDF which I took inspiration from is attached to the zip file**
 
 [Blog link on graph theory](https://rakhman.info/blog/solving-sudoku-with-graph-theory/#fn-1)
